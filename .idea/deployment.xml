@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="https://github.com/Nikita-Babenko/Golden.git" uploadOnCheckin="3dca8c45-4b47-4969-a5fa-96736d7dfd88">
+    <serverData>
+      <paths name="https://github.com/Nikita-Babenko/Golden.git">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="https://github.com/Nikita-Babenko/Golden.git" />
+  </component>
+</project>

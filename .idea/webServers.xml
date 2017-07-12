@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3dca8c45-4b47-4969-a5fa-96736d7dfd88" name="https://github.com/Nikita-Babenko/Golden.git" url="https://github.com/Nikita-Babenko/Golden.git">
+        <fileTransfer host="https://github.com/Nikita-Babenko/Golden.git" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
